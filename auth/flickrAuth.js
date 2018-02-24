@@ -1,5 +1,5 @@
-const clientKey = '74404f566bdc758cd298469c704af870';
-const clientSecert = '890935ee272b780a';
+const clientKey = 'the_client_key';
+const clientSecert = 'the_client_secret';
 module.exports={
   ck:clientKey,
   cs:clientSecert
