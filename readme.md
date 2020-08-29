@@ -1,2 +1,2 @@
-#Photo Lookup App
-using flickr's API :P :D.
+# flickRM
+Random Picture lookup using flickr's API :P :D.
